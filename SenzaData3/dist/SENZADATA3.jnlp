@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="SENZADATA3.jnlp">
+  <information>
+    <title>SENZADATA3</title>
+    <vendor>micky</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="SENZADATA3.jar" size="12992" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="senzadata3.SENZADATA3"  name="SENZADATA3" />
+  <update check="always"/>
+</jnlp>
