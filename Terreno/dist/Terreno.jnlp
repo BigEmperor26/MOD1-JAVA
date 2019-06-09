@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Terreno.jnlp">
+  <information>
+    <title>Terreno</title>
+    <vendor>michele.yin</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Terreno.jar" size="22515" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="it.unitn.disi.latemar.mod1.yin.Gioco"  name="Terreno" />
+  <update check="always"/>
+</jnlp>
