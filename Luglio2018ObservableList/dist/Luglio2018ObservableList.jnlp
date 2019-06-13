@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Luglio2018ObservableList.jnlp">
+  <information>
+    <title>Luglio2018ObservableList</title>
+    <vendor>micky</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Luglio2018ObservableList.jar" size="13673" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="luglio2018observablelist.Luglio2018ObservableList"  name="Luglio2018ObservableList" />
+  <update check="always"/>
+</jnlp>
