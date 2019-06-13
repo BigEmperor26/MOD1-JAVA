@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Luglio2016.jnlp">
+  <information>
+    <title>Luglio2016</title>
+    <vendor>micky</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Luglio2016.jar" size="13128" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="luglio2016.Luglio2016"  name="Luglio2016" />
+  <update check="always"/>
+</jnlp>
